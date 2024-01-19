@@ -3,3 +3,13 @@ header.header {
     color: orange;
     text-align: center;
 }
+img.foto1{
+   
+    text-align: left;
+}
+img.foto2{
+    text-align: center;
+}
+img.foto3{
+    text-align: right;
+}
